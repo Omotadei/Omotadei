@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omotade Samson Ikueje</h1>
+- 🔭 I’m currently working on **Migration of a privately hosted Git repo to GitHhub**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
